@@ -1,0 +1,13 @@
+Il sito di Forno
+
+Questo pacchetto è un sito statico autonomo.
+Carica index.html e la cartella assets sul tuo hosting statico.
+Non occorrono Node, Rust o Webby sul server.
+
+Per un’anteprima locale con Python:
+  python3 -m http.server 8080
+Poi apri http://localhost:8080
+
+Le immagini includono varianti WebP per telefoni e desktop.
+Il progetto modificabile si salva separatamente con “Backup progetto”.
+Le immagini dimostrative vanno sostituite con le foto dell’attività prima della consegna.

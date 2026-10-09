@@ -1,0 +1,261 @@
+{
+  "business": {
+    "address": "Via Avigliana 74/2 Almese, To",
+    "email": "",
+    "hours": "Lun–Sab  08:00–19:00\nDomenica  08:00–13:00",
+    "instagram": "",
+    "language": "it",
+    "name": "Forno",
+    "phone": "",
+    "tagline": "Una piccola eccellenza, vicino a te."
+  },
+  "design": {
+    "accent": "#8f3829",
+    "background": "#fcf6e9",
+    "font": "serif",
+    "id": "clay",
+    "layout": "split",
+    "motion": true,
+    "name": "Terracotta",
+    "radius": 6,
+    "text": "#492a20",
+    "theme": "clay"
+  },
+  "id": "f8949eeb-7229-4ea6-ad33-ac44abf73594",
+  "name": "Forno — nuovo sito",
+  "sections": [
+    {
+      "alt": "Panifici e caffè",
+      "blocks": [],
+      "button": "Scopri le nostre bontà",
+      "eyebrow": "Il tuo forno di quartiere",
+      "height": 480,
+      "href": "#offerings",
+      "id": "d506e438-3bdb-4283-afac-e287bb076e81",
+      "image": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg",
+      "images": [
+        {
+          "alt": "Una delle nostre specialità",
+          "src": "webby/assets/d78780b9736db998ff6777d3ec1821885c99b405e93e249d9e65ed26550c53aa.jpg"
+        },
+        {
+          "alt": "Il nostro spazio",
+          "src": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg"
+        },
+        {
+          "alt": "Dettagli del nostro lavoro",
+          "src": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg"
+        }
+      ],
+      "items": [
+        {
+          "description": "Ingredienti scelti, preparati con cura.",
+          "price": "€ 8",
+          "title": "Una specialità di casa"
+        },
+        {
+          "description": "Un piccolo piacere, ogni giorno.",
+          "price": "€ 6",
+          "title": "Il nostro preferito"
+        },
+        {
+          "description": "Le cose belle sono ancora più belle insieme.",
+          "price": "€ 12",
+          "title": "Da condividere"
+        }
+      ],
+      "text": "Pane fatto a mano, caffè che profuma di casa e qualcosa di buono, ogni giorno. Dal nostro forno, con amore.",
+      "title": "Il buongiorno\nha un altro\nsapore.",
+      "type": "hero",
+      "visible": true
+    },
+    {
+      "alt": "Uno scorcio del nostro locale",
+      "blocks": [],
+      "button": "Vieni a trovarci",
+      "eyebrow": "Farina, acqua, tempo",
+      "height": 480,
+      "href": "#contact",
+      "id": "c591f607-9336-46b0-9566-88a1e7c57c4f",
+      "image": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg",
+      "images": [
+        {
+          "alt": "Una delle nostre specialità",
+          "src": "webby/assets/d78780b9736db998ff6777d3ec1821885c99b405e93e249d9e65ed26550c53aa.jpg"
+        },
+        {
+          "alt": "Il nostro spazio",
+          "src": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg"
+        },
+        {
+          "alt": "Dettagli del nostro lavoro",
+          "src": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg"
+        }
+      ],
+      "items": [
+        {
+          "description": "Crosta croccante, cuore morbido. 24 ore di pazienza.",
+          "price": "da € 4",
+          "title": "Pane a lievitazione naturale"
+        },
+        {
+          "description": "Cornetti appena sfornati e il tuo caffè preferito.",
+          "price": "da € 3",
+          "title": "Colazioni felici"
+        },
+        {
+          "description": "Ricette di famiglia, una fetta alla volta.",
+          "price": "da € 5",
+          "title": "Dolci di casa"
+        }
+      ],
+      "text": "Ogni giorno mettiamo cura, tempo e un po’ di noi in quello che facciamo. Passa a trovarci: ci farà piacere conoscerti.",
+      "title": "Poche cose. Fatte bene.",
+      "type": "offerings",
+      "visible": true
+    },
+    {
+      "alt": "Uno scorcio del nostro locale",
+      "blocks": [],
+      "button": "Vieni a trovarci",
+      "eyebrow": "Fatto con passione",
+      "height": 480,
+      "href": "#contact",
+      "id": "aeb18df1-3075-42bb-9da1-7530eb8a5edc",
+      "image": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg",
+      "images": [
+        {
+          "alt": "Una delle nostre specialità",
+          "src": "webby/assets/d78780b9736db998ff6777d3ec1821885c99b405e93e249d9e65ed26550c53aa.jpg"
+        },
+        {
+          "alt": "Il nostro spazio",
+          "src": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg"
+        },
+        {
+          "alt": "Dettagli del nostro lavoro",
+          "src": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg"
+        }
+      ],
+      "items": [
+        {
+          "description": "Ingredienti scelti, preparati con cura.",
+          "price": "€ 8",
+          "title": "Una specialità di casa"
+        },
+        {
+          "description": "Un piccolo piacere, ogni giorno.",
+          "price": "€ 6",
+          "title": "Il nostro preferito"
+        },
+        {
+          "description": "Le cose belle sono ancora più belle insieme.",
+          "price": "€ 12",
+          "title": "Da condividere"
+        }
+      ],
+      "text": "Crediamo nelle cose semplici: una buona farina, il tempo giusto e il piacere di fare bene. Il nostro forno è un posto per fermarsi, scambiare due parole e sentirsi a casa.",
+      "title": "Le mani in pasta.\nIl cuore in paese.",
+      "type": "story",
+      "visible": true
+    },
+    {
+      "alt": "Uno scorcio del nostro locale",
+      "blocks": [],
+      "button": "Vieni a trovarci",
+      "eyebrow": "Fatto con passione",
+      "height": 480,
+      "href": "#contact",
+      "id": "64d1f54e-e6c0-41e8-bae9-89a00a3dd474",
+      "image": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg",
+      "images": [
+        {
+          "alt": "Una delle nostre specialità",
+          "src": "webby/assets/d78780b9736db998ff6777d3ec1821885c99b405e93e249d9e65ed26550c53aa.jpg"
+        },
+        {
+          "alt": "Il nostro spazio",
+          "src": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg"
+        },
+        {
+          "alt": "Dettagli del nostro lavoro",
+          "src": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg"
+        }
+      ],
+      "items": [
+        {
+          "description": "Ingredienti scelti, preparati con cura.",
+          "price": "€ 8",
+          "title": "Una specialità di casa"
+        },
+        {
+          "description": "Un piccolo piacere, ogni giorno.",
+          "price": "€ 6",
+          "title": "Il nostro preferito"
+        },
+        {
+          "description": "Le cose belle sono ancora più belle insieme.",
+          "price": "€ 12",
+          "title": "Da condividere"
+        }
+      ],
+      "text": "Ogni giorno mettiamo cura, tempo e un po’ di noi in quello che facciamo. Passa a trovarci: ci farà piacere conoscerti.",
+      "title": "Piccoli momenti,\ngrandi bontà.",
+      "type": "gallery",
+      "visible": true
+    },
+    {
+      "alt": "Uno scorcio del nostro locale",
+      "blocks": [],
+      "button": "Vieni a trovarci",
+      "eyebrow": "Fatto con passione",
+      "height": 480,
+      "href": "#contact",
+      "id": "6e671836-5a9c-4c67-a691-afb7aeca014a",
+      "image": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg",
+      "images": [
+        {
+          "alt": "Una delle nostre specialità",
+          "src": "webby/assets/d78780b9736db998ff6777d3ec1821885c99b405e93e249d9e65ed26550c53aa.jpg"
+        },
+        {
+          "alt": "Il nostro spazio",
+          "src": "webby/assets/a53785cb6406138e3fc41fe9157d9025bb6978d90f339e0dc38eef2746cec877.jpg"
+        },
+        {
+          "alt": "Dettagli del nostro lavoro",
+          "src": "webby/assets/1b61db649b20bcd76089e37139a909cacc5e85faf82c8768a601731fc8135d7b.jpg"
+        }
+      ],
+      "items": [
+        {
+          "description": "Ingredienti scelti, preparati con cura.",
+          "price": "€ 8",
+          "title": "Una specialità di casa"
+        },
+        {
+          "description": "Un piccolo piacere, ogni giorno.",
+          "price": "€ 6",
+          "title": "Il nostro preferito"
+        },
+        {
+          "description": "Le cose belle sono ancora più belle insieme.",
+          "price": "€ 12",
+          "title": "Da condividere"
+        }
+      ],
+      "text": "Ogni giorno mettiamo cura, tempo e un po’ di noi in quello che facciamo. Passa a trovarci: ci farà piacere conoscerti.",
+      "title": "Ti aspettiamo.",
+      "type": "contact",
+      "visible": true
+    }
+  ],
+  "seo": {
+    "description": "Caldo, artigianale, un po’ di casa.",
+    "domain": "https://Simone2048.github.io/forno",
+    "title": "Forno | Panifici e caffè"
+  },
+  "template": "bakery",
+  "updatedAt": "2026-10-09T14:40:01.517Z",
+  "version": 1
+}
